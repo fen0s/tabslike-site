@@ -1,0 +1,12 @@
+.footer {position: fixed;
+height: 35px;
+bottom: 0;
+width: 100%;
+text-align: center;
+border: 1px solid black;
+background: linear-gradient(to bottom, #ebebeb, #e0e0e0)};
+
+img.animated-gif{
+  width: 1px;
+  height: 5px;
+}
